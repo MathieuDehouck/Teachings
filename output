@@ -1,0 +1,235 @@
+0:ROOT	0:nmod	1:nmod	2:nmod	Samedi 10 avril 2010 
+0:ROOT	0:nmod	1:nmod	2:nmod	Dimanche 10 avril 2010 	
+0:ROOT	0:nmod	1:nmod	2:nmod	Lundi 10 avril 2010 	
+0:ROOT	0:nmod	1:nmod	2:nmod	Samedi 10 mars 2010 	
+0:ROOT	0:nmod	1:nmod	2:nmod	Samedi 10 décembre 2010 	
+
+2:nsubj	2:aux:tense	2:ROOT	2:punct	Je suis satisfait. 
+1:nsubj<<<	1:ROOT<<<	1:xcomp<<<	1:punct<<<	Je serai satisfait. 	#######
+2:nsubj	2:cop<<<	2:ROOT	2:punct	Je suis contente. 	#######
+2:nsubj	2:cop<<<	2:ROOT	2:punct	Je suis heureux. 	#######
+2:nsubj	2:cop<<<	2:ROOT	2:punct	Je suis triste. 	#######
+
+1:advmod	1:ROOT	1:advmod	1:punct	Ne tirez pas ! 
+1:advmod	1:ROOT	1:advmod	1:punct	Ne courez pas ! 	
+1:advmod	1:ROOT	1:advmod	1:punct	Ne tirez plus ! 	
+
+1:nsubj	1:ROOT	1:xcomp	1:punct	Vous allez aimer ! 
+1:nsubj	1:ROOT	1:xcomp	1:punct	Vous allez adorer ! 	
+1:nsubj	1:ROOT	1:xcomp	1:punct	Vous allez détester ! 	
+1:nsubj	1:ROOT	1:xcomp	1:punct	Vous allez pleurer ! 	
+1:nsubj	1:ROOT	1:xcomp	1:punct	Vous allez rire ! 	
+
+1:det	2:nsubj	2:ROOT	2:punct	L'homme accepte. 
+1:det	2:nsubj	2:ROOT	2:punct	L'officier accepte. 	
+1:det	2:nsubj	2:ROOT	2:punct	L'agent accepte. 	
+1:det	2:nsubj	2:ROOT	2:punct	L'homme refuse. 	
+1:det	2:nsubj	2:ROOT	2:punct	L'homme accepta. 	
+
+0:ROOT	2:det	0:obj	0:punct	Sauvons les apparences ! 
+0:ROOT	2:det	0:obj	0:punct	Sauvons les dauphins ! 	
+
+1:det	3:nsubj	3:cop	3:ROOT	3:punct	Cette manifestation est gratuite ; 
+1:det	3:nsubj	3:cop	3:ROOT	3:punct	Cette application  est gratuite ; 	
+1:det	3:nsubj	3:cop	3:ROOT	3:punct	Cette manifestation est payante  ; 	
+
+1:det	3:nsubj	3:cop	3:ROOT	3:punct	La nourriture est infecte ! 
+1:det	3:nsubj	3:cop	3:ROOT	3:punct	La bouffe est infecte ! 	
+1:det	3:nsubj	3:cop	3:ROOT	3:punct	La nourriture est dégeulasse ! 	
+
+3:nsubj	3:cop	3:advmod	3:ROOT	3:punct	C'est simplement absurde. 
+3:nsubj	3:cop	3:advmod	3:ROOT	3:punct	C'est simplement magnifique . 	
+3:nsubj	3:cop	3:advmod	3:ROOT	3:punct	C'est simplement  incroyable. 	
+
+1:nsubj	1:ROOT	3:det	1:obj	1:punct	Il remporte le championnat. 
+1:nsubj	1:ROOT	3:det	1:obj	1:punct	Il remporte le concours. 	
+1:nsubj	1:ROOT	3:det	1:obj	1:punct	Il remporte le tournoi. 	
+
+3:nsubj	3:cop	3:advmod	3:ROOT	3:punct	Ce serait très beau. 
+3:nsubj	3:cop	3:advmod	3:ROOT	3:punct	Ce serait très moche. 	
+
+2:nsubj	2:iobj	2:ROOT	2:advmod	2:punct	Il me convient mieux. 
+2:nsubj	2:iobj	2:ROOT	2:advmod	2:punct	Il me va mieux. 	
+2:nsubj	2:iobj	2:ROOT	2:advmod	2:punct	Il me convient bien. 	
+
+0:ROOT	3:case	3:det	0:nmod	0:punct	Bienvenue à la NSA ! 
+0:ROOT	3:case	3:det	0:nmod	0:punct	Bienvenue à la maison ! 	
+
+3:nsubj	3:iobj	3:aux:tense	3:ROOT	3:punct	Je me suis régalée ! 
+3:nsubj	3:obj<<<	3:aux:tense	3:ROOT	3:punct	Je me suis mordu  ! 	#######
+
+4:punct	4:nsubj	4:advmod	4:cop	4:ROOT	4:punct	« Personne n'est dupe. 
+4:punct	4:nsubj	4:advmod	4:aux:tense<<<	4:ROOT	4:punct	« Personne n'est mort . 	#######
+
+1:det	4:nsubj	4:cop	4:advmod	4:ROOT	4:punct	La population est majoritairement rurale. 
+1:det	4:nsubj	4:cop	4:advmod	4:ROOT	4:punct	une population est majoritairement rurale. 	
+1:det	4:nsubj	4:cop	4:advmod	4:ROOT	4:punct	La population est généralement rurale. 	
+
+1:nsubj	1:ROOT	4:det	4:amod	1:obj	1:punct	Je joue le premier mouvement. 
+1:nsubj	1:ROOT	4:det	4:amod	1:obj	1:punct	Je joue un premier mouvement. 	
+1:nsubj	1:ROOT	4:det	4:amod	1:obj	1:punct	Je joue le dernier mouvement. 	
+1:nsubj	1:ROOT	4:det	4:amod	1:obj	1:punct	Je joue le deuxième mouvement. 	
+
+2:nsubj	2:advmod	2:ROOT	4:det	2:obj	2:punct	Ils ne rencontrèrent aucune résistance. 
+2:nsubj	2:advmod	2:ROOT	2:advmod<<<	2:obj	2:punct	Ils ne rencontrèrent pas résistance. 	#######
+
+1:det	4:nsubj	4:cop	4:advmod	4:ROOT	4:punct	La soirée était presque parfaite. 
+1:det	4:nsubj	4:cop	4:advmod	4:ROOT	4:punct	une soirée était presque parfaite. 	
+1:det	4:nsubj	4:cop	4:advmod	4:ROOT	4:punct	La matinée était presque parfaite. 	
+1:det	4:nsubj	4:cop	4:advmod	4:ROOT	4:punct	La journée était presque parfaite. 	
+1:det	4:nsubj	4:cop	4:advmod	4:ROOT	4:punct	La soirée était presque finie. 	
+
+1:det	4:nsubj	4:cop	4:advmod	4:ROOT	4:punct	Les prix sont très raisonnable. 
+1:det	4:nsubj	4:cop	4:advmod	4:ROOT	4:punct	Les prix sont très élevés. 	
+1:det	4:nsubj	4:cop	4:advmod	4:ROOT	4:punct	Les prix sont très abordables. 	
+
+1:det	3:nsubj	3:expl:pass	3:ROOT	3:xcomp	4:flat:name	3:punct	Cette série s'intitule Pan Am. 
+1:det	3:nsubj	3:expl:pass	3:ROOT	3:xcomp	4:flat:name	3:punct	Cette oeuvre s'intitule Pan Am. 	
+1:det	3:nsubj	3:expl:pass	3:ROOT	3:xcomp	4:flat:name	3:punct	Cette série s'nomme Pan Am. 	
+
+0:ROOT	0:cop	0:expl:subj	0:advcl:cleft	5:det	3:nsubj	0:punct	Qu'est-ce qu'un délinquant ? 
+0:ROOT	0:cop	0:expl:subj	5:cc<<<	5:det	0:conj<<<	0:punct	Qu'est-ce qu'un voyou ? 	#######
+
+1:det	3:nsubj	3:cop	3:ROOT	5:cc	3:conj	3:punct	Le contact est simple et facile. 
+1:det	3:nsubj	3:cop	3:ROOT	5:cc	3:conj	3:punct	Le contact est difficile et facile. 	
+1:det	3:nsubj	3:cop	3:ROOT	5:cc	3:conj	3:punct	Le contact est simple ou facile. 	
+1:det	3:nsubj	3:cop	3:ROOT	5:cc	3:conj	3:punct	Le contact est simple et efficace. 	
+
+1:det	5:nsubj	1:amod	5:cop	5:case	5:ROOT	5:punct	Les démarches légales sont en cours. 
+1:det	5:nsubj	1:amod	5:cop	5:case	5:ROOT	5:punct	Les processus légales sont en cours. 	
+1:det	5:nsubj	1:acl<<<	5:cop	5:case	5:ROOT	5:punct	Les démarches autorisées sont en cours. 	#######
+
+2:nsubj	2:aux:tense	2:ROOT	5:nummod	5:amod	2:obj	2:punct	J'ai passé deux bonnes semaines. 
+2:nsubj	2:aux:tense	2:ROOT	5:nummod	5:amod	2:obj	2:punct	J'ai passé deux jolies  semaines. 	
+
+5:nsubj:pass	3:case	3:det	0:nmod	5:aux:pass	5:ROOT	5:punct	Deux de ses souverains sont connus. 
+5:nsubj:pass	3:case	3:det	0:nmod	5:aux:pass	5:ROOT	5:punct	Trois de ses souverains sont connus. 	
+5:nsubj:pass	3:case	3:det	0:nmod	5:aux:pass	5:ROOT	5:punct	Deux de ses seigneurs sont connus. 	
+
+1:nsubj	1:ROOT	4:case	4:det	1:obl:mod	6:case	4:nmod	1:punct	Raphaël étudie à l'université de Pont-à-Mousson. 
+1:nsubj	1:ROOT	4:case	4:det	1:obl:mod	6:case	4:nmod	1:punct	Raphaël enseigne à l'université de Pont-à-Mousson. 	
+1:nsubj	1:ROOT	4:case	4:det	1:obl:mod	6:case	4:nmod	1:punct	Raphaël étudie à l'école de Pont-à-Mousson. 	
+
+0:ROOT	4:case	4:det	4:amod	0:obl:arg	6:case	4:nmod	0:punct	Bravo pour cette magnifique maison d'édition ! 
+0:ROOT	4:case	4:det	4:amod	0:obl:arg	6:case	4:nmod	0:punct	Bravo pour cette belle maison d'édition ! 	
+0:ROOT	4:case	4:det	4:amod	0:obl:arg	6:case	4:nmod	0:punct	Bravo pour cette grande maison d'édition ! 	
+
+6:advmod	0:punct	3:det	6:nsubj:pass	6:aux:tense	6:aux:pass	6:ROOT	6:punct	Récemment, la façade a été restaurée. 
+6:advmod	0:punct	3:det	6:nsubj:pass	6:aux:tense	6:aux:pass	6:ROOT	6:punct	Hier, la façade a été restaurée. 	
+6:advmod	0:punct	3:det	6:nsubj:pass	6:aux:tense	6:aux:pass	6:ROOT	6:punct	Récemment, la charpente a été restaurée. 	
+6:advmod	0:punct	3:det	6:nsubj:pass	6:aux:tense	6:aux:pass	6:ROOT	6:punct	Récemment, la façade a été endommagée. 	
+
+1:det	3:nsubj	3:aux:tense	3:ROOT	5:case	3:obl	5:nmod	3:punct	cette agence a fermé en nov 2009. 
+1:det	3:nsubj	3:aux:tense	3:ROOT	5:case	3:obl	5:nmod	3:punct	cette boutique a fermé en nov 2009. 	
+1:det	3:nsubj	3:aux:tense	3:ROOT	5:case	3:obl	5:nmod	3:punct	cette agence a ouvert en nov 2009. 	
+
+1:nsubj	1:ROOT	3:det	1:obj	3:amod	7:advmod	5:fixed	3:amod	1:punct	Il rencontre une jeune paysanne un peu sauvage. 
+1:nsubj	1:ROOT	3:det	1:obj	3:amod	7:advmod	5:fixed	3:amod	1:punct	Il rencontre une jeune paysanne un peu moche. 	
+
+2:det	2:amod	2:ROOT	5:mark	5:expl:comp	2:acl	7:case	5:obl	2:punct	Un superbe endroit pour se reposer en famille. 
+2:det	2:amod	2:ROOT	5:mark	5:expl:comp	2:acl	7:case	5:obl	2:punct	Un horrible endroit pour se reposer en famille. 	
+2:det	2:amod	2:ROOT	5:mark	5:obj<<<	2:acl	7:case	5:obl	2:punct	Un superbe endroit pour se détendre en famille. 	#######
+
+1:nsubj	1:ROOT	3:det	1:obj	3:amod	6:case	1:obl:mod	8:case	1:obl	1:punct	Il fait son service militaire à Sélestat en 1935. 
+1:nsubj	1:ROOT	3:det	1:obj	3:amod	6:case	1:obl:mod	8:case	1:obl	1:punct	Il fait son service civique à Sélestat en 1935. 	
+
+2:det	2:amod	8:dislocated	2:amod	2:punct	8:nsubj	8:cop	8:det	8:ROOT	8:punct	Le seul point negatif, c'est les toilettes. 
+2:det	2:amod	8:dislocated	2:amod	2:punct	8:nsubj	8:cop	8:det	8:ROOT	8:punct	Le seul point negatif, c'est les gens . 	
+
+4:nsubj	2:punct	0:acl	2:punct	4:ROOT	8:mark	8:nsubj	8:obj	4:ccomp	4:punct	Dean, ému, répond qu'il le sait. 
+4:nsubj	2:punct	0:acl	2:punct	4:ROOT	8:mark	8:nsubj	8:obj	4:ccomp	4:punct	Dean, outré, répond qu'il le sait. 	
+
+2:det	2:amod	4:nsubj	4:aux:tense	4:ROOT	6:det	4:obl	6:nmod	7:nmod	4:punct	Son premier numéro est paru le 10 avril 1841. 
+2:det	2:amod	4:nsubj	4:aux:tense	4:ROOT	6:det	4:obl	6:nmod	7:nmod	4:punct	le premier numéro est paru le 10 avril 1841. 	
+2:det	2:amod	4:nsubj	4:aux:tense	4:ROOT	6:det	4:obl	6:nmod	7:nmod	4:punct	Son dernier numéro est paru le 10 avril 1841. 	
+
+1:nsubj	1:ROOT	1:advmod	4:det	1:obj	7:case	7:det	1:obl:mod	10:case	10:det	1:obl:mod	13:case	13:det	10:nmod	1:punct	Il combat ensuite les Anglais à plusieurs reprises dans le nord de la France. 
+1:nsubj	1:ROOT	1:advmod	4:det	1:obj	7:case	7:det	1:obl:mod	10:case	10:det	1:obl:mod	13:case	13:det	10:nmod	1:punct	Il combat ensuite les Germains à plusieurs reprises dans le nord de la France. 	
+1:nsubj	1:ROOT	1:advmod	4:det	1:obj	7:case	7:det	1:obl:mod	10:case	10:det	1:obl:mod	13:case	13:det	10:nmod	1:punct	Il combat ensuite les Anglais à plusieurs occasions dans le nord de la France. 	
+1:nsubj	1:ROOT	1:advmod	4:det	1:obj	7:case	7:det	1:obl:mod	10:case	10:det	1:obl:mod	13:case	13:det	10:nmod	1:punct	Il combat ensuite les Anglais à plusieurs reprises dans le sud de la France. 	
+1:nsubj	1:ROOT	1:advmod	4:det	1:obj	7:case	7:det	1:obl:mod	10:case	10:det	1:obl:mod	13:case	13:det	10:nmod	1:punct	Il combat ensuite les Anglais à plusieurs reprises dans le nord de la Belgique. 	
+
+2:det	2:amod	3:nsubj	3:ROOT	9:mark	6:det	9:nsubj	9:cop	9:amod	3:ccomp	13:punct	13:advmod	13:det	9:appos	3:punct	Le célèbre Ruyter disait que les Français étaient bons marins, principalement les Provençaux. 
+1:det<<<	3:nsubj<<<	1:appos<<<	3:ROOT	9:mark	6:det	9:nsubj	9:cop	9:amod	3:ccomp	13:punct	13:advmod	13:det	9:appos	3:punct	Le funeste Ruyter disait que les Français étaient bons marins, principalement les Provençaux. 	#######
+
+6:nsubj	0:flat:name	0:flat:name	0:flat:name	6:cop	6:det	6:ROOT	6:amod	6:amod	6:acl	11:det	9:obl:arg	11:nmod	12:nmod	6:punct	René van der Linden est un homme politique néerlandais né le 14 décembre 1943. 
+6:nsubj	0:flat:name	0:flat:name	0:flat:name	6:cop	6:det	6:ROOT	6:amod	6:amod	6:acl	11:det	9:obl:arg	11:nmod	12:nmod	6:punct	René van der Linden est un représentant politique néerlandais né le 14 décembre 1943. 	
+
+1:case	10:obl:mod	10:nsubj	2:flat:name	2:flat:name	6:case	2:nmod	8:punct	6:nmod	2:punct	10:ROOT	12:det	10:obj	14:case	12:nmod	17:case	17:det	12:nmod	17:flat:name	10:punct	En 1988 Aero Composite Technologies de Somerset, Pennsylvanie, achète les droits de production de le Sea Hawker. 
+1:case	10:obl:mod	10:nsubj	2:flat:name	2:flat:name	6:case	2:nmod	8:punct	2:conj<<<	8:punct<<<	10:ROOT	12:det	10:obj	14:case	12:nmod	17:case	17:det	12:nmod	17:flat:name	10:punct	En 1988 Aero Composite Technologies de Somerset, Michigan, achète les droits de production de le Sea Hawker. 	#######
+1:case	10:obl:mod	10:nsubj	2:flat:name	2:flat:name	6:case	2:nmod	8:punct	6:nmod	2:punct	10:ROOT	12:det	10:obj	14:case	12:nmod	17:case	17:det	12:nmod	17:flat:name	10:punct	En 1988 Aero Composite Technologies de Somerset, Pennsylvanie, vend les droits de production de le Sea Hawker. 	
+1:case	10:obl:mod	10:nsubj	2:flat:name	2:flat:name	6:case	2:nmod	8:punct	6:nmod	2:punct	10:ROOT	12:det	10:obj	14:case	12:nmod	17:case	17:det	12:nmod	17:flat:name	10:punct	En 1988 Aero Composite Technologies de Somerset, Pennsylvanie, revend les droits de production de le Sea Hawker. 	
+1:case	10:obl:mod	10:nsubj	2:flat:name	2:flat:name	6:case	2:nmod	8:punct	6:nmod	2:punct	10:ROOT	12:det	10:obj	14:case	12:nmod	17:case	17:det	12:nmod	17:flat:name	10:punct	En 1988 Aero Composite Technologies de Somerset, Pennsylvanie, achète les brevets de production de le Sea Hawker. 	
+
+1:case	4:obl:mod	1:punct	4:nsubj	4:ROOT	7:case	7:det	4:obl	10:case	10:det	7:nmod	10:amod	15:cc	15:case	15:det	10:conj	18:case	18:det	15:nmod	4:punct	Pour cela, ils comptent sur le soutien de la communauté internationale et de la légitimité de leur cause. 
+1:case	4:obl:mod	1:punct	4:nsubj	4:ROOT	7:case	7:det	4:obl	10:case	10:det	7:nmod	10:amod	15:cc	15:case	15:det	10:conj	18:case	18:det	15:nmod	4:punct	Pour cela, ils comptent sur le soutien de la communauté islandaise et de la légitimité de leur cause. 	
+1:case	4:obl:mod	1:punct	4:nsubj	4:ROOT	7:case	7:det	4:obl	10:case	10:det	7:nmod	10:amod	15:cc	15:case	15:det	10:conj	18:case	18:det	15:nmod	4:punct	Pour cela, ils comptent sur le soutien de la communauté internationale et de la grandeur de leur cause. 	
+
+1:det	4:nsubj:pass	4:aux:pass	4:advmod	4:ROOT	4:advmod	9:case	9:det	9:amod	5:obl:arg	12:cc	12:det	9:conj	12:appos	12:advmod	17:case	17:det	14:obl:arg	17:flat:name	4:punct	Le titre est officiellement remporté lors de la 32e journée et une victoire 2-0 face à le Borussia Mönchengladbach. 
+1:det	4:nsubj:pass	4:aux:pass	4:advmod	4:ROOT	4:advmod	9:case	9:det	9:amod	5:obl:arg	12:cc	12:det	9:conj	12:appos	12:advmod	17:case	17:det	14:obl:arg	17:flat:name	4:punct	Le titre est officiellement gagné lors de la 32e journée et une victoire 2-0 face à le Borussia Mönchengladbach. 	
+1:det	4:nsubj:pass	4:aux:pass	4:advmod	4:ROOT	4:advmod	9:case	9:det	9:amod	5:obl:arg	12:cc	12:det	4:conj<<<	12:appos	12:advmod	17:case	17:det	14:obl:arg	17:flat:name	4:punct	Le titre est officiellement remporté lors de la 32e semaine et une victoire 2-0 face à le Borussia Mönchengladbach. 	#######
+
+12:advmod	4:case	4:det	4:amod	0:obl:arg	6:punct	4:advmod	9:case	9:det	6:obl:arg	9:punct	12:nsubj	12:ROOT	14:nummod	12:obj	16:cc	12:conj	18:nummod	16:obj	12:punct	Lors de son deuxième match, face à l'Australie, il inscrit 17 points et capte 20 rebonds. 
+12:advmod	4:case	4:det	4:amod	0:obl:arg	6:punct	4:advmod	9:case	9:det	6:obl:arg	9:punct	12:nsubj	12:ROOT	14:nummod	12:obj	16:cc	12:conj	18:nummod	16:obj	12:punct	Lors de son premier match, face à l'Australie, il inscrit 17 points et capte 20 rebonds. 	
+12:advmod	4:case	4:det	4:amod	0:obl:arg	6:punct	4:advmod	9:case	9:det	6:obl:arg	9:punct	12:nsubj	12:ROOT	14:nummod	12:obj	16:cc	12:conj	18:nummod	16:obj	12:punct	Lors de son dernier match, face à l'Australie, il inscrit 17 points et capte 20 rebonds. 	
+
+5:nsubj	2:case	0:nmod	5:cop	5:det	5:ROOT	5:amod	10:case	10:det	10:amod	5:nmod	12:case	10:nmod	14:punct	5:acl	16:case	14:obl:arg	18:case	14:obl:mod	5:punct	Lycophron de Chalcis est un poète grec de le IVe siècle av. J.-C., né à Chalcis en Eubée. 
+5:nsubj	2:case	0:nmod	5:cop	5:det	5:ROOT	5:amod	10:case	10:det	10:amod	5:nmod	12:case	10:nmod	14:punct	5:acl	16:case	14:obl:arg	18:case	14:obl:mod	5:punct	Lycophron de Chalcis est un auteur grec de le IVe siècle av. J.-C., né à Chalcis en Eubée. 	
+5:nsubj	2:case	0:nmod	5:cop	5:det	5:ROOT	5:amod	10:case	10:det	10:amod	5:nmod	12:case	10:nmod	14:punct	5:acl	16:case	14:obl:arg	18:case	14:obl:mod	5:punct	Lycophron de Chalcis est un fermier grec de le IVe siècle av. J.-C., né à Chalcis en Eubée. 	
+5:nsubj	2:case	0:nmod	5:cop	5:det	5:ROOT	5:amod	10:case	10:det	10:amod	5:nmod	12:case	10:nmod	14:punct	5:acl	16:case	14:obl:arg	18:case	14:obl:mod	5:punct	Lycophron de Chalcis est un poète algerien  de le IVe siècle av. J.-C., né à Chalcis en Eubée. 	
+5:nsubj	2:case	0:nmod	5:cop	5:det	5:ROOT	5:amod	10:case	10:det	10:amod	5:nmod	12:case	10:nmod	14:punct	5:acl	16:case	14:obl:arg	18:case	14:obl:mod	5:punct	Lycophron de Chalcis est un poète grec de le IVe millénaire av. J.-C., né à Chalcis en Eubée. 	
+
+1:det	2:nsubj	2:ROOT	16:mark	5:det	16:nsubj	5:amod	9:punct	9:nsubj	5:acl:relcl	11:nummod	9:obj	14:case	14:det	11:nmod	5:punct	2:ccomp	16:xcomp	19:det	17:obj	22:case	22:det	19:nmod	22:amod	2:punct	Certains physiciens pensent que la matière sombre, qui compose 25% de l'Univers, pourrait représenter une partie de l'antimatière disparue. 
+1:det	2:nsubj	2:ROOT	16:mark	5:det	16:nsubj	5:amod	9:punct	9:nsubj	5:acl:relcl	11:nummod	9:obj	14:case	14:det	11:nmod	5:punct	2:ccomp	16:xcomp	19:det	17:obj	22:case	22:det	19:nmod	22:amod	2:punct	Certains physiciens pensent que la matière noire, qui compose 25% de l'Univers, pourrait représenter une partie de l'antimatière disparue. 	
+
+1:det	3:nsubj	3:advmod	3:ROOT	3:advmod	6:mark	3:xcomp	8:det	6:obj	10:det	6:obl	10:amod	13:punct	10:acl	17:case	17:det	17:amod	13:obl:arg	19:punct	17:amod	21:case	19:obl:arg	23:case	21:nmod	3:punct	Les joueurs ne parviennent pas à rééditer leur performance la saison suivante, conclue à la dernière place, synonyme de retour en provinciales. 
+1:det	3:nsubj	3:advmod	3:ROOT	3:advmod	6:mark	3:xcomp	8:det	6:obj	10:det	6:obl	10:amod	13:punct	10:acl	17:case	17:det	17:amod	13:obl:arg	19:punct	17:amod	21:case	19:obl:arg	23:case	21:nmod	3:punct	Les joueurs ne parviennent pas à rééditer leur exploit la saison suivante, conclue à la dernière place, synonyme de retour en provinciales. 	
+
+1:det	3:nsubj	3:expl:pass	3:ROOT	6:case	6:det	3:obl:arg	6:amod	10:case	10:nummod	6:nmod	10:advmod	14:case	14:det	11:obl:arg	14:appos	20:cc	18:det	20:nsubj	20:advmod	3:conj	20:advmod	23:nummod	20:obj	3:punct	Le lac se situe à une altitude moyenne de 115,45 m au-dessus de la mer Adriatique et sa profondeur n'excède pas 1,8 mètre. 
+1:det	3:nsubj	3:expl:pass	3:ROOT	6:case	6:det	3:obl:arg	6:amod	10:case	10:nummod	6:nmod	10:advmod	14:case	14:det	11:obl:arg	14:appos	20:cc	18:det	20:nsubj	20:advmod	3:conj	20:advmod	23:nummod	20:obj	3:punct	Le lac se situe à une altitude moyenne de 115,45 m au-dessus de la mer Adriatique et sa profondeur n'excède pas 1,8 kilomètre. 	
+
+1:det	9:nsubj	1:appos	1:punct	5:case	9:obl:mod	5:punct	9:cop	9:det	9:ROOT	9:acl	9:acl	13:case	11:obl	17:punct	17:case	17:det	11:obl	19:case	17:nmod	23:punct	23:case	23:det	11:obl:arg	25:case	23:nmod	28:case	28:det	25:nmod	9:punct	Le mont Bawakaraeng, en indonésien, est un volcan éteint situé en Indonésie, sur l'île de Sulawesi, dans la province de Sulawesi de le Sud. 
+1:det	9:nsubj	1:appos	5:punct<<<	5:case	1:nmod<<<	1:punct<<<	9:cop	9:det	9:ROOT	9:acl	9:acl	13:case	11:obl	17:punct	17:case	17:det	11:obl	19:case	17:nmod	23:punct	23:case	23:det	11:obl:arg	25:case	23:nmod	28:case	28:det	25:nmod	9:punct	Le mont Bawakaraeng, en Malay, est un volcan éteint situé en Indonésie, sur l'île de Sulawesi, dans la province de Sulawesi de le Sud. 	#######
+1:det	9:nsubj	1:appos	1:punct	5:case	9:obl:mod	5:punct	9:cop	9:det	9:ROOT	9:acl	9:acl	13:case	11:obl	17:punct	17:case	17:det	11:obl	19:case	17:nmod	23:punct	23:case	23:det	11:obl:arg	25:case	23:nmod	28:case	28:det	25:nmod	9:punct	Le mont Bawakaraeng, en indonésien, est un volcan éteint situé en Malaisie, sur l'île de Sulawesi, dans la province de Sulawesi de le Sud. 	
+1:det	9:nsubj	1:appos	1:punct	5:case	9:obl:mod	5:punct	9:cop	9:det	9:ROOT	9:acl	9:acl	13:case	11:obl	17:punct	17:case	17:det	11:obl	19:case	17:nmod	23:punct	23:case	23:det	11:obl:arg	25:case	23:nmod	28:case	28:det	25:nmod	9:punct	Le mont Bawakaraeng, en indonésien, est un volcan éteint situé en Indonésie, sur l'île de Bornéo, dans la province de Sulawesi de le Sud. 	
+1:det	9:nsubj	1:appos	1:punct	5:case	9:obl:mod	5:punct	9:cop	9:det	9:ROOT	9:acl	9:acl	13:case	11:obl	17:punct	17:case	17:det	11:obl	19:case	17:nmod	23:punct	23:case	23:det	11:obl:arg	25:case	23:nmod	28:case	28:det	25:nmod	9:punct	Le mont Bawakaraeng, en indonésien, est un volcan éteint situé en Indonésie, sur l'île de Sulawesi, dans la commune de Sulawesi de le Sud. 	
+1:det	9:nsubj	1:appos	1:punct	5:case	9:obl:mod	5:punct	9:cop	9:det	9:ROOT	9:acl	9:acl	13:case	11:obl	17:punct	17:case	17:det	11:obl	19:case	17:nmod	23:punct	23:case	23:det	11:obl:arg	25:case	23:nmod	28:case	28:det	25:nmod	9:punct	Le mont Bawakaraeng, en indonésien, est un volcan éteint situé en Indonésie, sur l'île de Sulawesi, dans la province de Sulawesi de le Nord. 	
+
+18:nsubj	0:flat:name	0:flat:name	4:punct	0:acl	6:det	4:obl:arg	6:nmod	7:nmod	10:punct	4:conj	12:det	10:obl:arg	12:nmod	13:nmod	4:punct	18:cop	18:det	18:ROOT	18:amod	21:punct	18:appos	24:case	24:det	21:nmod	24:amod	28:case	28:det	24:nmod	18:punct	Eugène Pleasants Odum (né le 17 septembre 1913--mort le 10 août 2002) est un scientifique américain, pionnier de l'étude écologique de les écosystèmes. 
+18:nsubj	0:flat:name	0:flat:name	4:punct	0:acl	6:det	4:obl:arg	6:nmod	7:nmod	10:punct	4:conj	12:det	10:obl:arg	12:nmod	13:nmod	4:punct	18:cop	18:det	18:ROOT	18:amod	21:punct	18:appos	24:case	24:det	21:nmod	24:amod	28:case	28:det	24:nmod	18:punct	Eugène Pleasants Odum (né le 17 septembre 1913--mort le 10 août 2002) est un chercheur américain, pionnier de l'étude écologique de les écosystèmes. 	
+
+3:det	3:nummod	3:amod	7:nsubj	7:aux:tense	7:cop	7:advmod	7:ROOT	10:case	10:det	7:obl	10:amod	13:case	10:nmod	13:flat:name	13:flat:name	13:flat:name	25:punct	25:mark	18:fixed	22:det	22:amod	25:nsubj	25:cop	25:advmod	7:advcl	28:case	28:det	25:obl	28:appos	32:case	32:det	28:nmod	32:appos	7:punct	Les deux premiers morceaux ont été uniquement disponible sur la version deluxe de Dig Out Your Soul, tandis que la troisième piste est seulement écoutable sur la radio supernova de le site Oasisinet. 
+3:det	3:nummod	3:amod	7:nsubj	7:aux:tense	7:cop	7:advmod	7:ROOT	10:case	10:det	7:obl	10:amod	13:case	10:nmod	13:flat:name	13:flat:name	13:flat:name	25:punct	25:mark	18:fixed	22:det	22:amod	25:nsubj	25:cop	25:advmod	7:advcl	28:case	28:det	25:obl	28:appos	32:case	32:det	28:nmod	32:appos	7:punct	Les deux premiers morceaux ont été uniquement disponible sur la version deluxe de Dig Out Your Soul, tandis que la dernière piste est seulement écoutable sur la radio supernova de le site Oasisinet. 	
+
+0:ROOT	3:nsubj	3:advmod	0:acl:relcl	3:advmod	6:mark	3:advcl	9:case	9:det	6:obl:arg	12:case	12:det	9:nmod	16:punct	15:case	16:nmod	9:appos	16:flat:name	21:punct	21:nsubj	21:aux:tense	16:acl:relcl	27:mark	27:punct	25:det	27:nsubj	27:aux:tense	21:ccomp	27:advmod	37:punct	37:cc	32:det	37:nsubj	32:amod	37:advmod	37:aux:tense	37:advmod	27:conj	27:punct	0:punct	Ce qui n'était pas pour plaire à la majorité de l'assistance, entre autres Abdelaziz Belkhadem, qui a noté que « le discours a changé certes, mais le fait politique n'a pas suivi ». 
+0:ROOT	6:nsubj:pass<<<	6:advmod<<<	6:aux:pass<<<	6:advmod<<<	6:mark	0:acl:relcl<<<	9:case	9:det	6:obl:arg	12:case	12:det	9:nmod	16:punct	15:case	16:nmod	9:appos	16:flat:name	21:punct	21:nsubj	21:aux:tense	16:acl:relcl	27:mark	27:punct	25:det	27:nsubj	27:aux:tense	21:ccomp	27:advmod	37:punct	37:cc	32:det	37:nsubj	32:amod	37:advmod	37:aux:tense	37:advmod	27:conj	27:punct	0:punct	Ce qui n'est pas pour plaire à la majorité de l'assistance, entre autres Abdelaziz Belkhadem, qui a noté que « le discours a changé certes, mais le fait politique n'a pas suivi ». 	#######
+0:ROOT	3:nsubj	3:advmod	0:acl:relcl	3:advmod	6:mark	3:advcl	9:case	9:det	6:obl:arg	12:case	12:det	9:nmod	16:punct	15:case	16:nmod	9:appos	16:flat:name	21:punct	21:nsubj	21:aux:tense	16:acl:relcl	27:mark	27:punct	25:det	27:nsubj	27:aux:tense	21:ccomp	27:advmod	37:punct	37:cc	32:det	37:nsubj	32:amod	37:advmod	37:aux:tense	37:advmod	27:conj	27:punct	0:punct	Ce qui n'était pas pour déplaire à la majorité de l'assistance, entre autres Abdelaziz Belkhadem, qui a noté que « le discours a changé certes, mais le fait politique n'a pas suivi ». 	
+0:ROOT	3:nsubj	3:advmod	0:acl:relcl	3:advmod	6:mark	3:advcl	9:case	9:det	6:obl:arg	12:case	12:det	9:nmod	16:punct	15:case	16:nmod	9:appos	16:flat:name	21:punct	21:nsubj	21:aux:tense	16:acl:relcl	27:mark	27:punct	25:det	27:nsubj	27:aux:tense	21:ccomp	27:advmod	37:punct	37:cc	32:det	37:nsubj	32:amod	37:advmod	37:aux:tense	37:advmod	27:conj	27:punct	0:punct	Ce qui n'était pas pour plaire à la totalité de l'assistance, entre autres Abdelaziz Belkhadem, qui a noté que « le discours a changé certes, mais le fait politique n'a pas suivi ». 	
+0:ROOT	3:nsubj	3:advmod	0:acl:relcl	3:advmod	6:mark	3:advcl	9:case	9:det	6:obl:arg	12:case	12:det	9:nmod	16:punct	15:case	16:nmod	9:appos	16:flat:name	21:punct	21:nsubj	21:aux:tense	16:acl:relcl	27:mark	27:punct	25:det	27:nsubj	27:aux:tense	21:ccomp	27:advmod	37:punct	37:cc	32:det	37:nsubj	32:amod	37:advmod	37:aux:tense	37:advmod	27:conj	27:punct	0:punct	Ce qui n'était pas pour plaire à la majorité de l'assemblée, entre autres Abdelaziz Belkhadem, qui a noté que « le discours a changé certes, mais le fait politique n'a pas suivi ». 	
+0:ROOT	3:nsubj	3:advmod	0:acl:relcl	3:advmod	6:mark	3:advcl	9:case	9:det	6:obl:arg	12:case	12:det	9:nmod	16:punct	15:case	16:nmod	9:appos	16:flat:name	21:punct	21:nsubj	21:aux:tense	16:acl:relcl	27:mark	27:punct	25:det	27:nsubj	27:aux:tense	21:ccomp	27:advmod	37:punct	37:cc	32:det	37:nsubj	32:amod	37:advmod	37:aux:tense	37:advmod	27:conj	27:punct	0:punct	Ce qui n'était pas pour plaire à la majorité de l'assistance, entre autres Abdelaziz Belkhadem, qui a remarqué que « le discours a changé certes, mais le fait politique n'a pas suivi ». 	
+0:ROOT	3:nsubj	3:advmod	0:acl:relcl	3:advmod	6:mark	3:advcl	9:case	9:det	6:obl:arg	12:case	12:det	9:nmod	16:punct	15:case	16:nmod	9:appos	16:flat:name	21:punct	21:nsubj	21:aux:tense	16:acl:relcl	27:mark	27:punct	25:det	27:nsubj	27:aux:tense	21:ccomp	27:advmod	37:punct	37:cc	32:det	37:nsubj	32:amod	37:advmod	37:aux:tense	37:advmod	27:conj	27:punct	0:punct	Ce qui n'était pas pour plaire à la majorité de l'assistance, entre autres Abdelaziz Belkhadem, qui a noté que « le contexte a changé certes, mais le fait politique n'a pas suivi ». 	
+0:ROOT	3:nsubj	3:advmod	0:acl:relcl	3:advmod	6:mark	3:advcl	9:case	9:det	6:obl:arg	12:case	12:det	9:nmod	16:punct	15:case	16:nmod	9:appos	16:flat:name	21:punct	21:nsubj	21:aux:tense	16:acl:relcl	27:mark	27:punct	25:det	27:nsubj	27:aux:tense	21:ccomp	27:advmod	37:punct	37:cc	32:det	37:nsubj	32:amod	37:advmod	37:aux:tense	37:advmod	27:conj	27:punct	0:punct	Ce qui n'était pas pour plaire à la majorité de l'assistance, entre autres Abdelaziz Belkhadem, qui a noté que « le discours a changé certes, mais le fait sociétal n'a pas suivi ». 	
+
+12:acl	4:case	4:det	4:amod	0:obl	6:case	0:obl	9:cc	9:advmod	0:conj	0:punct	12:det	26:nsubj	12:amod	16:case	16:det	12:nmod	20:cc	20:case	20:det	16:conj	23:case	23:det	12:nmod	23:appos	26:aux:tense	26:ROOT	28:det	26:obj	31:case	31:det	26:obl:mod	31:amod	34:cc	26:conj	36:det	34:obj	36:amod	40:case	40:det	34:obl	43:case	43:det	40:nmod	43:amod	48:cc	48:case	48:det	43:conj	52:advmod	52:case	52:det	34:obl:mod	55:case	55:det	52:nmod	58:case	58:det	55:nmod	26:punct	Parues pour la première fois en 1719 et souvent rééditées, les Réflexions critiques sur la poésie et sur la peinture de l'abbé Dubos ont marqué un tournant dans la pensée esthétique et exerceront une influence considérable sur le développement de l'art théâtral et de la musique tout à le long de le siècle de les Lumières. 
+12:acl	4:case	4:det	4:amod	0:obl	6:case	0:obl	9:cc	9:advmod	0:conj	0:punct	12:det	26:nsubj	12:amod	16:case	16:det	12:nmod	20:cc	20:case	20:det	16:conj	23:case	23:det	12:nmod	23:appos	26:aux:tense	26:ROOT	28:det	26:obj	31:case	31:det	26:obl:mod	31:amod	34:cc	26:conj	36:det	34:obj	36:amod	40:case	40:det	34:obl	43:case	43:det	40:nmod	43:amod	48:cc	48:case	48:det	43:conj	52:advmod	52:case	52:det	34:obl:mod	55:case	55:det	52:nmod	58:case	58:det	55:nmod	26:punct	Parues pour la première fois en 1719 et souvent rééditées, les Réflexions acerbes sur la poésie et sur la peinture de l'abbé Dubos ont marqué un tournant dans la pensée esthétique et exerceront une influence considérable sur le développement de l'art théâtral et de la musique tout à le long de le siècle de les Lumières. 	
+12:acl	4:case	4:det	4:amod	0:obl	6:case	0:obl	9:cc	9:advmod	0:conj	0:punct	12:det	26:nsubj	12:amod	16:case	16:det	12:nmod	20:cc	20:case	20:det	16:conj	23:case	23:det	12:nmod	23:appos	26:aux:tense	26:ROOT	28:det	26:obj	31:case	31:det	26:obl:mod	31:amod	34:cc	26:conj	36:det	34:obj	36:amod	40:case	40:det	34:obl	43:case	43:det	40:nmod	43:amod	48:cc	48:case	48:det	43:conj	52:advmod	52:case	52:det	34:obl:mod	55:case	55:det	52:nmod	58:case	58:det	55:nmod	26:punct	Parues pour la première fois en 1719 et souvent rééditées, les Réflexions critiques sur la poésie et sur la peinture de l'anthropologue Dubos ont marqué un tournant dans la pensée esthétique et exerceront une influence considérable sur le développement de l'art théâtral et de la musique tout à le long de le siècle de les Lumières. 	
+
+1:det	14:nsubj	4:case	4:det	1:nmod	6:punct	4:amod	6:punct	10:case	10:det	4:nmod	12:case	10:nmod	14:expl:pass	14:ROOT	14:advmod	18:case	18:det	14:obl:arg	30:mark	21:det	30:nsubj:pass	21:amod	24:case	21:nmod	27:cc	27:case	24:conj	30:aux:tense	30:aux:pass	18:acl	34:case	34:det	34:amod	30:obl:agent	36:case	30:obl	38:cc	36:conj	40:punct	30:obl	40:advmod	41:fixed	44:case	41:obl:arg	46:punct	40:conj	46:advmod	47:fixed	50:case	47:obl:arg	53:punct	53:cc	40:conj	53:advmod	54:fixed	57:case	54:obl:arg	40:punct	14:punct	La présence d'une version « nordique » de la Chronique à Worcester s'explique peut-être par le fait que les sièges épiscopaux de York et de Worcester ont été occupés par les mêmes personnes entre 972 et 1016 (Oswald à partir de 972, Ealdwulf à partir de 992, et Wulfstan à partir de 1003). 
+1:det	14:nsubj	4:case	4:det	1:nmod	6:punct	4:amod	6:punct	10:case	10:det	4:nmod	12:case	10:nmod	14:expl:pass	14:ROOT	14:advmod	18:case	18:det	14:obl:arg	30:mark	21:det	30:nsubj:pass	21:amod	24:case	21:nmod	27:cc	27:case	24:conj	30:aux:tense	30:aux:pass	18:acl	34:case	34:det	34:amod	30:obl:agent	36:case	30:obl	38:cc	36:conj	40:punct	30:obl	40:advmod	41:fixed	44:case	41:obl:arg	46:punct	40:conj	46:advmod	47:fixed	50:case	47:obl:arg	53:punct	53:cc	40:conj	53:advmod	54:fixed	57:case	54:obl:arg	40:punct	14:punct	La présence d'une version « nordique » de la Chronique à Worcester s'explique peut-être par le fait que les sièges épiscopaux de York et de Worcester ont été occupés par les mêmes charlatans entre 972 et 1016 (Oswald à partir de 972, Ealdwulf à partir de 992, et Wulfstan à partir de 1003). 	
+
+1:det	14:obl:mod	4:case	4:det	1:nmod	1:punct	8:case	8:det	14:obl:mod	10:case	8:nmod	12:det	14:nsubj	14:aux:tense	32:ccomp	17:det	17:amod	14:obj	20:case	20:det	14:obl:mod	23:cc	23:det	20:conj	26:case	26:det	20:nmod	29:case	29:det	26:nmod	14:punct	32:aux:tense	32:ROOT	34:det	32:nsubj	37:case	37:det	34:nmod	37:amod	41:case	41:det	37:nmod	41:amod	44:cc	41:conj	53:punct	53:advmod	53:mark	49:det	53:nsubj	49:amod	53:aux:tense	53:advmod	34:acl	57:case	57:det	57:amod	53:obl:arg	60:case	60:det	57:nmod	60:amod	63:cc	61:conj	32:punct	La crise de le Kosovo, à le cours de laquelle la Bulgarie a joué un grand rôle dans l'accueil et le transit de les troupes de l'OTAN, a marqué un tournant dans les relations politiques entre les alliés occidentaux et Sofia, même si l'opinion bulgare était naturellement portée à une certaine solidarité avec les Serbes slaves et orthodoxes. 
+1:det	14:obl:mod	4:case	4:det	1:nmod	1:punct	8:case	8:det	14:obl:mod	10:case	8:nmod	12:det	14:nsubj	14:aux:tense	32:ccomp	17:det	17:amod	14:obj	20:case	20:det	14:obl:mod	23:cc	23:det	20:conj	26:case	26:det	20:nmod	29:case	29:det	26:nmod	14:punct	32:aux:tense	32:ROOT	34:det	32:nsubj	37:case	37:det	34:nmod	37:amod	41:case	41:det	37:nmod	41:amod	44:cc	41:conj	53:punct	53:advmod	53:mark	49:det	53:nsubj	49:amod	53:aux:tense	53:advmod	34:acl	57:case	57:det	57:amod	53:obl:arg	60:case	60:det	57:nmod	60:amod	63:cc	61:conj	32:punct	La crise de le Kosovo, à le cours de laquelle la Bulgarie a joué un grand rôle dans l'accueil et le transit de les troupes de l'OTAN, a marqué un tournant dans les relations politiques entre les alliés occidentaux et Sofia, même si l'opinion populaire était naturellement portée à une certaine solidarité avec les Serbes slaves et orthodoxes. 	
+1:det	14:obl:mod	4:case	4:det	1:nmod	1:punct	8:case	8:det	14:obl:mod	10:case	8:nmod	12:det	14:nsubj	14:aux:tense	32:ccomp	17:det	17:amod	14:obj	20:case	20:det	14:obl:mod	23:cc	23:det	20:conj	26:case	26:det	20:nmod	29:case	29:det	26:nmod	14:punct	32:aux:tense	32:ROOT	34:det	32:nsubj	37:case	37:det	34:nmod	37:amod	41:case	41:det	37:nmod	41:amod	44:cc	41:conj	53:punct	53:advmod	53:mark	49:det	53:nsubj	49:amod	53:aux:tense	53:advmod	34:acl	57:case	57:det	57:amod	53:obl:arg	60:case	60:det	57:nmod	60:amod	63:cc	61:conj	32:punct	La crise de le Kosovo, à le cours de laquelle la Bulgarie a joué un grand rôle dans l'accueil et le transit de les troupes de l'OTAN, a marqué un tournant dans les relations politiques entre les alliés occidentaux et Sofia, même si l'opinion bulgare était naturellement portée à une certaine solidarité avec les Serbes slaves et protestants. 	
+
+2:case	2:det	42:obl:mod	6:case	6:det	6:amod	2:nmod	8:det	42:nsubj	11:punct	11:case	8:nmod	11:amod	17:punct	17:case	17:det	17:amod	8:nmod	19:case	17:nmod	22:case	22:det	17:nmod	24:case	8:nmod	28:punct	28:case	28:det	24:conj	31:punct	31:cc	8:conj	35:punct	35:case	35:det	31:conj	31:punct	42:cop	42:advmod	38:fixed	38:fixed	38:fixed	42:ROOT	44:mark	42:ccomp	44:advmod	45:fixed	45:fixed	50:case	50:det	45:obl:arg	53:case	53:det	50:nmod	58:cc	58:advmod	58:case	58:det	42:conj	60:case	58:nmod	63:cc	63:case	60:conj	42:punct	À la fin de le XXe siècle la ligne, à écartement métrique, de l'ancien chemin de fer de le Dakar-Niger entre Dakar, à le Sénégal, et Bamako, à le Mali, est de plus en plus difficile à gérer de le fait de la concurrence de la route et surtout de son manque d'entretien et d'investissements. 
+2:case	2:det	42:obl:mod	6:case	6:det	6:amod	2:nmod	8:det	6:appos<<<	2:punct<<<	11:case	42:obl:mod<<<	11:amod	17:punct	17:case	17:det	17:amod	11:nmod<<<	19:case	17:nmod	22:case	22:det	17:nmod	24:case	17:nmod<<<	28:punct	28:case	28:det	24:conj	31:punct	31:cc	24:conj<<<	35:punct	35:case	35:det	31:conj	11:punct<<<	42:cop	42:advmod	38:fixed	38:fixed	38:fixed	42:ROOT	44:mark	42:ccomp	44:advmod	45:fixed	45:fixed	50:case	50:det	45:obl:arg	53:case	53:det	50:nmod	58:cc	58:advmod	58:case	58:det	50:conj<<<	60:case	58:nmod	63:cc	63:case	60:conj	42:punct	À la fin de le XXe millénaire la ligne, à écartement métrique, de l'ancien chemin de fer de le Dakar-Niger entre Dakar, à le Sénégal, et Bamako, à le Mali, est de plus en plus difficile à gérer de le fait de la concurrence de la route et surtout de son manque d'entretien et d'investissements. 	#######
+2:case	2:det	42:obl:mod	6:case	6:det	6:amod	2:nmod	8:det	42:nsubj	11:punct	11:case	8:nmod	11:amod	17:punct	17:case	17:det	17:amod	8:nmod	19:case	17:nmod	22:case	22:det	17:nmod	24:case	8:nmod	28:punct	28:case	28:det	24:conj	31:punct	31:cc	8:conj	35:punct	35:case	35:det	31:conj	31:punct	42:cop	42:advmod	38:fixed	38:fixed	38:fixed	42:ROOT	44:mark	42:ccomp	44:advmod	45:fixed	45:fixed	50:case	50:det	45:obl:arg	53:case	53:det	50:nmod	58:cc	58:advmod	58:case	58:det	42:conj	60:case	58:nmod	63:cc	63:case	60:conj	42:punct	À la fin de le XXe siècle la ligne, à espacement métrique, de l'ancien chemin de fer de le Dakar-Niger entre Dakar, à le Sénégal, et Bamako, à le Mali, est de plus en plus difficile à gérer de le fait de la concurrence de la route et surtout de son manque d'entretien et d'investissements. 	
+2:case	2:det	42:obl:mod	6:case	6:det	6:amod	2:nmod	8:det	42:nsubj	11:punct	11:case	8:nmod	11:amod	17:punct	17:case	17:det	17:amod	8:nmod	19:case	17:nmod	22:case	22:det	17:nmod	24:case	8:nmod	28:punct	28:case	28:det	24:conj	31:punct	31:cc	8:conj	35:punct	35:case	35:det	31:conj	31:punct	42:cop	42:advmod	38:fixed	38:fixed	38:fixed	42:ROOT	44:mark	42:ccomp	44:advmod	45:fixed	45:fixed	50:case	50:det	45:obl:arg	53:case	53:det	50:nmod	58:cc	58:advmod	58:case	58:det	42:conj	60:case	58:nmod	63:cc	63:case	60:conj	42:punct	À la fin de le XXe siècle la ligne, à écartement impérial, de l'ancien chemin de fer de le Dakar-Niger entre Dakar, à le Sénégal, et Bamako, à le Mali, est de plus en plus difficile à gérer de le fait de la concurrence de la route et surtout de son manque d'entretien et d'investissements. 	
+2:case	2:det	42:obl:mod	6:case	6:det	6:amod	2:nmod	8:det	42:nsubj	11:punct	11:case	8:nmod	11:amod	17:punct	17:case	17:det	17:amod	8:nmod	19:case	17:nmod	22:case	22:det	17:nmod	24:case	22:nmod<<<	28:punct	28:case	28:det	8:nmod<<<	31:punct	31:cc	28:conj<<<	35:punct	35:case	35:det	8:nmod<<<	8:punct<<<	42:cop	42:advmod	38:fixed	38:fixed	38:fixed	42:ROOT	44:mark	42:ccomp	44:advmod	45:fixed	45:fixed	50:case	50:det	45:obl:arg	53:case	53:det	50:nmod	58:cc	58:advmod	58:case	58:det	42:conj	60:case	58:nmod	63:cc	63:case	60:conj	42:punct	À la fin de le XXe siècle la ligne, à écartement métrique, de l'ancien chemin de fer de le Dakar-Niger entre Kotonou, à le Sénégal, et Bamako, à le Mali, est de plus en plus difficile à gérer de le fait de la concurrence de la route et surtout de son manque d'entretien et d'investissements. 	#######
+2:case	2:det	42:obl:mod	6:case	6:det	6:amod	2:nmod	8:det	42:nsubj	11:punct	11:case	8:nmod	11:amod	17:punct	17:case	17:det	17:amod	8:nmod	19:case	17:nmod	22:case	22:det	17:nmod	24:case	8:nmod	28:punct	28:case	28:det	24:conj	31:punct	31:cc	24:conj<<<	35:punct	35:case	35:det	31:conj	8:punct<<<	42:cop	42:advmod	38:fixed	38:fixed	38:fixed	42:ROOT	44:mark	42:ccomp	44:advmod	45:fixed	45:fixed	50:case	50:det	45:obl:arg	53:case	53:det	50:nmod	58:cc	58:advmod	58:case	58:det	42:conj	60:case	58:nmod	63:cc	63:case	60:conj	42:punct	À la fin de le XXe siècle la ligne, à écartement métrique, de l'ancien chemin de fer de le Dakar-Niger entre Dakar, à le Mali, et Bamako, à le Mali, est de plus en plus difficile à gérer de le fait de la concurrence de la route et surtout de son manque d'entretien et d'investissements. 	#######
+2:case	2:det	42:obl:mod	6:case	6:det	6:amod	2:nmod	8:det	42:nsubj	11:punct	11:case	8:nmod	11:amod	17:punct	17:case	17:det	17:amod	8:nmod	19:case	17:nmod	22:case	22:det	17:nmod	24:case	8:nmod	28:punct	28:case	28:det	24:conj	31:punct	31:cc	8:conj	35:punct	35:case	35:det	31:conj	31:punct	42:cop	42:advmod	38:fixed	38:fixed	38:fixed	42:ROOT	44:mark	42:ccomp	44:advmod	45:fixed	45:fixed	50:case	50:det	45:obl:arg	53:case	53:det	50:nmod	58:cc	58:advmod	58:case	58:det	42:conj	60:case	58:nmod	63:cc	63:case	60:conj	42:punct	À la fin de le XXe siècle la ligne, à écartement métrique, de l'ancien chemin de fer de le Dakar-Niger entre Dakar, à le Sénégal, et Lomé, à le Mali, est de plus en plus difficile à gérer de le fait de la concurrence de la route et surtout de son manque d'entretien et d'investissements. 	
+2:case	2:det	42:obl:mod	6:case	6:det	6:amod	2:nmod	8:det	42:nsubj	11:punct	11:case	8:nmod	11:amod	17:punct	17:case	17:det	17:amod	8:nmod	19:case	17:nmod	22:case	22:det	17:nmod	24:case	8:nmod	28:punct	28:case	28:det	24:conj	31:punct	31:cc	8:conj	35:punct	35:case	35:det	31:conj	31:punct	42:cop	42:advmod	38:fixed	38:fixed	38:fixed	42:ROOT	44:mark	42:ccomp	44:advmod	45:fixed	45:fixed	50:case	50:det	45:obl:arg	53:case	53:det	50:nmod	58:cc	58:advmod	58:case	58:det	42:conj	60:case	58:nmod	63:cc	63:case	60:conj	42:punct	À la fin de le XXe siècle la ligne, à écartement métrique, de l'ancien chemin de fer de le Dakar-Niger entre Dakar, à le Sénégal, et Bamako, à le Togo, est de plus en plus difficile à gérer de le fait de la concurrence de la route et surtout de son manque d'entretien et d'investissements. 	
+2:case	2:det	42:obl:mod	6:case	6:det	6:amod	2:nmod	8:det	42:nsubj:pass<<<	11:punct	11:case	8:nmod	11:amod	17:punct	17:case	17:det	17:amod	8:nmod	19:case	17:nmod	22:case	22:det	17:nmod	24:case	8:nmod	28:punct	28:case	28:det	24:conj	31:punct	31:cc	8:conj	35:punct	35:case	35:det	31:conj	31:punct	42:aux:pass<<<	42:advmod	38:fixed	38:fixed	38:fixed	42:ROOT	44:mark	42:xcomp<<<	44:advmod	45:fixed	45:fixed	50:case	50:det	45:obl:arg	53:case	53:det	50:nmod	58:cc	58:advmod	58:case	58:det	44:conj<<<	60:case	58:nmod	63:cc	63:case	60:conj	42:punct	À la fin de le XXe siècle la ligne, à écartement métrique, de l'ancien chemin de fer de le Dakar-Niger entre Dakar, à le Sénégal, et Bamako, à le Mali, est de plus en plus compliquée à gérer de le fait de la concurrence de la route et surtout de son manque d'entretien et d'investissements. 	#######
+2:case	2:det	42:obl:mod	6:case	6:det	6:amod	2:nmod	8:det	42:nsubj	11:punct	11:case	8:nmod	11:amod	17:punct	17:case	17:det	17:amod	8:nmod	19:case	17:nmod	22:case	22:det	17:nmod	24:case	8:nmod	28:punct	28:case	28:det	24:conj	31:punct	31:cc	8:conj	35:punct	35:case	35:det	31:conj	31:punct	42:cop	42:advmod	38:fixed	38:fixed	38:fixed	42:ROOT	44:mark	42:ccomp	44:advmod	45:fixed	45:fixed	50:case	50:det	45:obl:arg	53:case	53:det	50:nmod	58:cc	58:advmod	58:case	58:det	42:conj	60:case	58:nmod	63:cc	63:case	60:conj	42:punct	À la fin de le XXe siècle la ligne, à écartement métrique, de l'ancien chemin de fer de le Dakar-Niger entre Dakar, à le Sénégal, et Bamako, à le Mali, est de plus en plus difficile à gérer de le fait de la concurrence de la piste et surtout de son manque d'entretien et d'investissements. 	
+2:case	2:det	42:obl:mod	6:case	6:det	6:amod	2:nmod	8:det	42:nsubj	11:punct	11:case	8:nmod	11:amod	17:punct	17:case	17:det	17:amod	8:nmod	19:case	17:nmod	22:case	22:det	17:nmod	24:case	8:nmod	28:punct	28:case	28:det	24:conj	31:punct	31:cc	8:conj	35:punct	35:case	35:det	31:conj	31:punct	42:cop	42:advmod	38:fixed	38:fixed	38:fixed	42:ROOT	44:mark	42:ccomp	44:advmod	45:fixed	45:fixed	50:case	50:det	45:obl:arg	53:case	53:det	50:nmod	58:cc	58:advmod	58:case	58:det	42:conj	60:case	58:nmod	63:cc	63:case	60:conj	42:punct	À la fin de le XXe siècle la ligne, à écartement métrique, de l'ancien chemin de fer de le Dakar-Niger entre Dakar, à le Sénégal, et Bamako, à le Mali, est de plus en plus difficile à gérer de le fait de la concurrence de la route et surtout de son manque d'entretien et d'aménagements. 	
+
